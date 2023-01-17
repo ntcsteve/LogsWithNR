@@ -6,6 +6,8 @@ As applications move towards the cloud, microservices architecture is becoming m
 
 It provides deeper visibility into application and infrastructure performance data (events, errors, traces, and more) to reduce mean-time-to-resolve (MTTR) and quickly troubleshoot production incidents. Log management provides a way to connect your log data with the rest of your application and infrastructure data. You can get to the root cause of problems quickly, without losing context from switching between tools.
 
+In this DevRel workshop, we will explore various ways to push logs into the platform. To add, we will learn more about client and server side optimization for logs, and explore them in New Relic! 
+
 ## What do you need to make this work?
 
 ## New Relic One Account
