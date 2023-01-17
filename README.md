@@ -18,7 +18,7 @@ Free access to all of New Relic. No credit card required. [Sign Up for Free](htt
 
 Follow the instructions as described [here](https://docs.newrelic.com/docs/apis/intro-apis/new-relic-api-keys/#overview-keys) on how to create your first Ingest api key.
 
-## DevRel Workshop - DevRel Workshop - Logs Management with New Relic
+## DevRel Workshop - Logs Management with New Relic
 
 This is the main code used in the hands on workshop that is conducted by DevRel New Relic. The sample code is available for your own reference.
 
